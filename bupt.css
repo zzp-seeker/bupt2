@@ -124,7 +124,8 @@ a{text-decoration:none;color:white;cursor:pointer;}
         }
 
         .front {
-            padding: 15px 30px 15px 31px;
+            text-align: center;
+            line-height: 50px;
         }
 
         .back {
